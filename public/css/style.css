@@ -582,3 +582,14 @@ color: #777;
 .cursor{
 	cursor: pointer;
 }
+
+#menu .container .navbar-header .logo {
+	width: 250px;
+	height: 50px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url('../../img/logo-huong-viet.jpg');
+	cursor: pointer;
+	width: 90px;
+	height: 50px;
+}
